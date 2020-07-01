@@ -33,7 +33,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) ) {
 <html>
 <head>
 <?php require_once "bootstrap.php"; ?>
-<title>Omkar Rajesh Shinde c3d13b69</title>
+<title>Omkar Rajesh Shinde</title>
 </head>
 <body>
 <div class="container">
