@@ -43,7 +43,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>Omkar Rajesh Shinde c3d13b69</title>
+<title>Omkar Rajesh Shinde</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
